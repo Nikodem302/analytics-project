@@ -1,2 +1,2 @@
 # api-book-part-two
-Source code for Part 2 of Hands on APIs for AI and Data Science
+This repository contains programs that use standard Python frameworks, based on projects from Rayan Day's book “Hands-On APIs for AI and Data Science: Python Development with FastAPI.”
